@@ -9,13 +9,13 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Multimodal Brain Disease Diagnostic Tool
+### 🧠 Multimodal Brain Disease Diagnostic Tool 
 - Developed a multimodal AI system combining MRI image classification (DenseNet CNN) and voice biomarkers for early diagnosis.
 - Extracted prosodic speech features using Parselmouth–Praat and fused them with vision embeddings.
 - Achieved strong early detection accuracy; deployed a Flask-based inference API on AWS.
 - Research presented at **ICICBDA**.
 
-### 🎨 Artist Discovery Portal (Full-Stack)
+### 🎨 Artist Discovery Portal (Full-Stack) (Demo: https://wt-assignment3-karna.uw.r.appspot.com/search)
 - Built a full-stack web application using **Angular, TypeScript, Node.js, and MongoDB** for artist discovery via the Artsy API.
 - Implemented JWT-based authentication, REST APIs, and scalable backend services.
 - Deployed on Google Cloud and extended into a Kotlin-based Android application.
@@ -34,9 +34,9 @@
 ---
 
 ## 🔬 Research & Publications
-- **ICICBDA** – Multimodal MRI + Speech Diagnostic System for Brain Disease Detection  
-- **ICACIT** – Online Math Tutoring Platform & Learning Analytics  
-- **IC-CCDS** – Handwritten Text Recognition and Grammar Correction using Deep Learning  
+- **ICICBDA** – Multimodal MRI + Speech Diagnostic System for Brain Disease Detection (https://docs.google.com/document/d/1Fx0nrQi7XPJwa7AcL8Vhzzr7oLzv4hM8HEp7pAoqnRk/edit?usp=sharing) 
+- **ICACIT** – Online Math Tutoring Platform & Learning Analytics (https://docs.google.com/document/d/12HMrpgaendYLGy97p-MGzMgc2efUy_qkXIIitsal-FE/edit?usp=sharing)  
+- **IC-CCDS** – Handwritten Text Recognition and Grammar Correction using Deep Learning ( 
 
 _Current research focus:_ LLM quantization, agentic AI, and efficient inference for real-world systems.
 
