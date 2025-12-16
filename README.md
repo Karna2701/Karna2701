@@ -45,15 +45,24 @@ _Current research focus:_ LLM quantization, agentic AI, and efficient inference 
 ## 🏢 Work Experience Highlights
 
 ### 🤖 Machine Learning Engineer Intern — Shiga Corp
-- Delivered **15+ production-grade AI/ML applications** for fraud detection, credit risk scoring, and analytics.
-- Built Flask API microservices and React dashboards supporting **90–100+ internal users**.
-- Integrated **LLMs, RAG pipelines, and open-source models (Hugging Face, LLaMA, OpenAI)** into production workflows.
-- Reduced analytical workflows from hours to **sub-minute inference** using optimized pipelines.
+- Engineered and delivered **15+ production-ready AI/ML applications** across domains including transaction fraud detection, credit-risk scoring with explainable AI, employee churn analysis, and predictive analytics, translating client requirements into deployable systems.
+- Designed **scalable Flask-based API microservices** to serve PyTorch and scikit-learn models, implementing clean OOP service layers, input validation, structured logging, retry logic, and exception handling to ensure reliable inference in real-world workloads.
+- Built **interactive React dashboards and analytics interfaces** used by **90–100+ internal users**, enabling real-time model insights, automated risk analysis, and faster decision-making workflows.
+- Integrated **LLMs and RAG pipelines** using **Hugging Face models, LLaMA variants, and OpenAI APIs**, supporting document understanding, conversational analytics, and AI-assisted insights within production workflows.
+- Optimized end-to-end ML pipelines—including data preprocessing, feature engineering, inference, and caching—**reducing analytical workflows from hours to sub-minute execution** and improving overall system responsiveness.
+- Worked in **Agile sprints**, participated in peer code reviews, collaborated cross-functionally with product and analytics teams, and contributed to CI-ready, modular codebases.
+
+---
 
 ### 🧑‍🏫 Python Developer & Instructor — Brainlox
-- Developed backend services using **Flask and Django**, supporting 200+ active users.
-- Designed REST routes, authentication flows, and ORM-based database layers.
-- Conducted **17 Python lectures** and mentored 50+ students in CS fundamentals and OOP.
+- Developed and maintained **backend services using Flask and Django**, supporting **200+ active users**, with a focus on modular architecture, maintainability, and performance.
+- Designed and implemented **RESTful APIs**, authentication and authorization flows, middleware, and **ORM-based database layers**, ensuring secure data access and clean separation of concerns.
+- Collaborated with frontend and product teams to deliver real-time application features, debug issues, and deploy incremental improvements in an **Agile development environment**.
+- Conducted **17 structured Python programming lectures**, covering Python fundamentals, data structures, object-oriented programming, and introductory machine learning concepts.
+- Mentored **50+ students**, reviewed code, and simplified complex technical concepts, strengthening both learner outcomes and my own technical communication skills.
+
+---
+
 
 ---
 
