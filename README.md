@@ -79,6 +79,29 @@ _Current research focus:_ LLM quantization, agentic AI, and efficient inference 
 
 ---
 
+## 🏆 Co-Curricular & Leadership
+### 🤖 DJInIT.AI — Official AI/ML Club, DJSCE
+👨‍🏫 Junior Mentor (Sep 2022 – Jun 2023)
+- Mentored students on AI/ML fundamentals, model building, and applied projects
+- Conducted hands-on workshops and guided implementation sessions
+- Supported beginner teams in moving from theory → working ML prototypes
+
+### 🚀 Vice President (Aug 2023 – Jun 2024)
+- Led technical strategy, mentorship programs, and ML learning tracks for 50+ students
+- Organized inter-college AI/ML workshops and hack events
+- Drove collaboration across teams and promoted applied ML innovation culture
+- Supervised student project groups and research-oriented builds
+
+### 📚 DJ-LIT — Official Literary Society, DJSCE
+🛠 Logistics Head (Jul 2022 – Aug 2023)
+- Managed event logistics and operational planning for literary and technical events
+- Coordinated cross-team execution and scheduling
+
+### 🧪 Research & Innovation Activities
+- 🧠 Participated in 10+ zonal and national-level hackathons
+- 📄 Published 4 research papers in peer-reviewed conferences
+- 👥 Mentored 12 student research teams from idea → implementation → publication
+
 
 
 ---
