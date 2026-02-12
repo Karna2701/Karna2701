@@ -31,6 +31,12 @@
 - Improved real-world text recognition accuracy on noisy handwritten datasets.
 - Published at **IC-CCDS**.
 
+### Health Record Portal for Patients Predicting Diseases and Recommending Precautions 	                                                                            
+- Built an end-to-end health record portal enabling patients to book appointments, conduct secure video consultations with doctors, and manage medical records via a unified React dashboard.
+- Integrated ML models (91% accuracy) for disease prediction, BMI calculation, and personalized precaution/medicine recommendations, alongside OCR-based extraction of key health indicators from blood reports.
+- Developed an intelligent patient chatbot to answer medical queries and streamlined workflows into a single dashboard, tested by 48 users for usability and reliability.
+
+
 ---
 
 ## 🔬 Research & Publications
@@ -141,17 +147,6 @@ _Current research focus:_ LLM quantization, agentic AI, and efficient inference 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karna2701&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Karna2701&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karna2701&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Karna2701&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
