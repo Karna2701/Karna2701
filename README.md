@@ -72,8 +72,7 @@ _Current research focus:_ LLM quantization, agentic AI, and efficient inference 
 
 ---
 
-# 💻 Tech Stack:
-<!-- (Your existing tech stack badges remain unchanged below this line) -->
+
 # 💻 Tech Stack:
 
 ### 🧑‍💻 Languages
