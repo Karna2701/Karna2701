@@ -1,4 +1,17 @@
 💫 About Me:
+
+Hi, I’m Karna 👋
+
+I’m a Master’s student in Computer Science at the University of Southern California with a strong focus on AI, machine learning, and full-stack systems engineering. I enjoy building production-ready AI systems that bridge research and real-world deployment.
+
+My work spans LLM-powered retrieval systems, structured RAG pipelines, predictive modeling, multimodal deep learning, and scalable web applications. I’ve built and deployed end-to-end AI systems across domains including legal intelligence, healthcare analytics, fraud detection, and anomaly detection — with an emphasis on modular design, reliability, and measurable performance.
+
+Technically, I work primarily with Python, PyTorch, Hugging Face, Flask/FastAPI, Node.js, React, vector databases, and Docker. I’m particularly interested in building AI infrastructure that treats models not as demos, but as reliable, testable, and scalable systems.
+
+I care deeply about clean architecture, reproducibility, and evaluation-driven development. Whether it’s designing LLM pipelines, building ML dashboards, or optimizing inference workflows, my goal is always the same: make intelligent systems practical, performant, and impactful.
+
+
+Currently, I’m exploring advanced ML systems, agentic workflows, and scalable AI tooling — and I’m always excited to collaborate on meaningful technical challenges.
 🔭 I am currently working on agentic AI systems, LLM quantization, scalable ML pipelines, and full-stack applications that integrate intelligent backends with user-facing interfaces.<br><br>
 🤝 I am looking to collaborate on open-source AI/ML projects, full-stack applications, LLM-powered tools, and multi-agent workflow systems.<br><br>
 🧠 I am looking for help with advanced system design, scalable machine learning infrastructure, and production-grade distributed systems.<br><br>
