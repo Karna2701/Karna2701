@@ -45,12 +45,11 @@ _Current research focus:_ LLM quantization, agentic AI, and efficient inference 
 ## 🏢 Work Experience Highlights
 
 ### 🤖 Machine Learning Engineer Intern — Shiga Corp
-- Engineered and delivered **15+ production-ready AI/ML applications** across domains including transaction fraud detection, credit-risk scoring with explainable AI, employee churn analysis, and predictive analytics, translating client requirements into deployable systems.
-- Designed **scalable Flask-based API microservices** to serve PyTorch and scikit-learn models, implementing clean OOP service layers, input validation, structured logging, retry logic, and exception handling to ensure reliable inference in real-world workloads.
-- Built **interactive React dashboards and analytics interfaces** used by **90–100+ internal users**, enabling real-time model insights, automated risk analysis, and faster decision-making workflows.
-- Integrated **LLMs and RAG pipelines** using **Hugging Face models, LLaMA variants, and OpenAI APIs**, supporting document understanding, conversational analytics, and AI-assisted insights within production workflows.
-- Optimized end-to-end ML pipelines—including data preprocessing, feature engineering, inference, and caching—**reducing analytical workflows from hours to sub-minute execution** and improving overall system responsiveness.
-- Worked in **Agile sprints**, participated in peer code reviews, collaborated cross-functionally with product and analytics teams, and contributed to CI-ready, modular codebases.
+- Built and deployed production-grade AI systems, including an LLM-powered legal RAG platform (KaanoonSaarthi) that ingested mining laws and regulations into a vector database using Sentence-BERT and LegalBERT, enabling accurate semantic search, multilingual query handling, and automated updates via web scraping.
+- Delivered 15+ end-to-end AI/ML applications by developing modular Python services, Flask-based microservices, and React frontends supporting fraud detection, credit-risk scoring, anomaly analysis, and predictive analytics across multiple client systems.
+- Designed full-stack AI dashboards using React + Flask with REST APIs, async workflows, and session management, enabling real-time model interaction for 90–100+ users, reducing multi-hour analysis workflows to sub-minute inference cycles (~35% speedup).
+- Integrated and optimized LLM & RAG pipelines using Hugging Face, OpenAI embeddings, and LLaMA-based models, containerized with Docker and deployed as scalable microservices for real-time decision support.
+- Implemented robust testing and reliability pipelines, including unit tests for ML logic, API contract tests, regression tests for feature pipelines, and UI validation, proactively detecting data drift, schema mismatches, and model performance regressions.
 
 ---
 
