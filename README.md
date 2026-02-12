@@ -66,7 +66,7 @@ Currently, I’m exploring advanced ML systems, agentic workflows, and scalable 
 ## 🔬 Research & Publications
 - **ICICBDA** – Multimodal MRI + Speech Diagnostic System for Brain Disease Detection (https://docs.google.com/document/d/1Fx0nrQi7XPJwa7AcL8Vhzzr7oLzv4hM8HEp7pAoqnRk/edit?usp=sharing) 
 - **ICACIT** – Online Math Tutoring Platform & Learning Analytics (https://docs.google.com/document/d/12HMrpgaendYLGy97p-MGzMgc2efUy_qkXIIitsal-FE/edit?usp=sharing)  
-- **IC-CCDS** – Handwritten Text Recognition and Grammar Correction using Deep Learning ( 
+- **IC-CCDS** – Handwritten Text Recognition and Grammar Correction using Deep Learning ( https://docs.google.com/document/d/17p7Zl-ptv-VKiRTQwz29VgujpZpIGH-r/edit?usp=sharing&ouid=113921518096552535959&rtpof=true&sd=true)  
 
 _Current research focus:_ LLM quantization, agentic AI, and efficient inference for real-world systems.
 
