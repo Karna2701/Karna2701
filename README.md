@@ -68,6 +68,16 @@ _Current research focus:_ LLM quantization, agentic AI, and efficient inference 
 
 ---
 
+### 🚑 Vision-Based Fall Detection System for Elderly Care 
+
+- Built a real-time computer vision fall detection system using MediaPipe pose estimation + OpenCV, designed for continuous monitoring of elderly individuals through CCTV/video feeds.
+- Engineered a pose-analysis pipeline that tracks knee and ankle keypoints instead of only head/shoulder landmarks, improving fall detection reliability by capturing lower-limb motion signatures.
+- Implemented motion angle + velocity threshold logic across consecutive frames to distinguish real fall events from normal activities.
+- Integrated a Telegram chatbot alert system that sends instant fall notifications to caregivers, supporting both single-user and multi-caregiver group chat configurations.
+- Developed a web interface for Telegram Bot token integration, ChatID generation, and caregiver onboarding workflow.
+- Achieved 77.08% detection accuracy, with 84.09% recall and 90.24% precision across evaluated fall scenarios.
+- Designed as a cost-effective elderly safety solution using open-source frameworks and widely adopted messaging platforms.
+- Focused on real-world social impact — enabling rapid caregiver response and improving elderly care safety outcomes.
 
 ---
 
